@@ -1,0 +1,33 @@
+body{
+  background-color: aliceblue;
+}
+.style-title{
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 2px;
+  color: rgb(34, 46, 46);
+}
+.styles-intro{
+  font-size: 20px;
+  padding-bottom: 50px;
+}
+.styles-age-input{
+  height: 40px;
+  width: 200px;
+  font-size: 20px;
+  font-style: italic;
+  border-radius: 8px;
+  border: 1px solid black;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.styles-button{
+  height: 44px;
+  width: 140px;
+  font-size: 20px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-left: 7px;
+  cursor: pointer;
+}
